@@ -28,6 +28,7 @@ env/
 
 # IDE
 .vscode/
+.autodl/
 
 # SPP specific ignores
 spp/src/dependencies/parallel_cut_pursuit/
